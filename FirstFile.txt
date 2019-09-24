@@ -1,1 +1,4 @@
 Hello, this is my first file created in local repo.
+
+* Adding one more line to the file *
+* Initial changes done *
